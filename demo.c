@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
 // Demo file for Understanding Licensing repository
 
 int main() 
