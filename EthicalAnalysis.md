@@ -10,3 +10,11 @@ Remember that there are no right or wrong answers. You will be graded on your un
 As a rule of thumb, your answer will likely be around 800 words — 100 to explain and 100 to analyze for each ethical theory, and another 200 to synthesize and provide your own opinion. You do not need to include citations to the article above or to the class readings. However, if you consult any additional sources (which you are welcome to but do not have to do), be sure to include a list of references after your response.
 </br>
 TODO:: RESPONSE HERE
+</br></br>
+The article, "How ChatGPT Hijacks Democracy". written by Nathan E. Sanders and Bruce Schneier brings forth issues of the power Artificial Intelligence may bring to politics. Notably, these issues include the ability for AI to represent a wide variety of issues that have no impact on itself and the replacement of humans in democratic processes. 
+</br></br>
+Thus, we must answer the question: Is it ethical to use generative AI for government lobbying or other areas of political influence, as described in the article? This, is a difficult problem to answer because one could argue both pros and cons for implementing AI for government lobbying. However, I would argue that introducing generative AI as a political force would be a recipe for disaster. 
+</br></br>
+One of the major reasons I am in opposition to using generative AI for government lobbying stems from the replacement of a human profession. The reason lobbying exists is because humans hold different ideals and each wants their beliefs to see fruition. However, a generative AI, no matter how well it seems to mimic human mannerisms, is not a real human. As such, an Artificial Intelligence model has no actual investment in the possible outcomes of what it lobbies for.
+</br></br>
+Another important motivation for my criticism of AI being used for political motives can be found in the destruction of human intervention in democratic processes. 
