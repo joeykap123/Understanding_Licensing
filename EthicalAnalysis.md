@@ -8,6 +8,7 @@ Consider what utilitarianism, deontology, and virtue ethics would suggest about 
 Remember that there are no right or wrong answers. You will be graded on your understanding of and ability to explain these different ethical frameworks, and your ability to apply them to this specific situation.
 
 As a rule of thumb, your answer will likely be around 800 words — 100 to explain and 100 to analyze for each ethical theory, and another 200 to synthesize and provide your own opinion. You do not need to include citations to the article above or to the class readings. However, if you consult any additional sources (which you are welcome to but do not have to do), be sure to include a list of references after your response.
+
 </br>
 TODO:: RESPONSE HERE
 </br></br>
@@ -18,3 +19,9 @@ However, we still must answer the question: Is it ethical to use generative AI f
 One of the major reasons I am in opposition to using generative AI for government lobbying stems from the replacement of a human profession. The reason lobbying exists is because humans hold different ideals and each wants their beliefs to see fruition. However, a generative AI, no matter how well it seems to mimic human mannerisms, is not a real human. As such, an Artificial Intelligence model has no actual investment in the possible outcomes of what it lobbies for. The article mentions a notable quote that applies to this qualm, noting "Lobbying firms tend to work within one state only, because there are such complex variations in law, procedure and politcal structure. With A.I. assistance in navigating these variations, it may become easier to exert power across political boundaries." This is extremely important to note because AI intervention across state boundaries could lead to unpopular and devestating decisions taking place, which would affect the residents of these states.
 </br></br>
 Another important motivation for my criticism of AI being used for political motives can be found in the destruction of human intervention in democratic processes. Ariticial Intelligence systems have no stake in the outcome of a given lobbying campaign. This is a notable issue because lobbying itself is human. A machine cannot understand why a human thinks the way they do and why they might oppose some law or organization. This is highlighted in the article, which states "A system that can understand political networks, if paired with the textual-generation capabilities of ChatGPT, could identify the member of Congress with the most leverage over a particular policy area -- say, corporate taxation or military spending." Artificial Intelligence systems would feel no impact from the outcomes of the lobbying campaigns they would be presenting.
+</br></br>
+It is also important to tie in ethical frameworks, specifically Utilitarianism, Deontology, and Virtue Ethics, when discussing the use of AI in politics. Utilitarinism would likely argue that this technology is unethical. 
+
+Deontology would likely take a similar view to Utilitarianism asserting that this technology is unethical.
+
+Virtue Ethics 
