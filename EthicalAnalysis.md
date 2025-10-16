@@ -1,16 +1,9 @@
 # An Ethical Analysis of Using Generative AI for Political Means
 
 The following examines the New York Times article, "How ChatGPT Hijacks Democracy", written by Nathan E. Sanders and Bruce Schneier. The purpose of the response below is to provide reasoning on the ethical dilemma: Is it ethical to use generative AI for government lobbying or other areas of political influence, as described in the article?
-</br>
 
-Consider what utilitarianism, deontology, and virtue ethics would suggest about the ethics of using this technology. Write each of these analyses (including explaining each framework), and then consider them as a whole and what you actually think, drawing from and combining these frameworks or making a decision entirely on your own. As part of your analyses, you may also note additional information that you would want to know in order to make better decisions.
+***
 
-Remember that there are no right or wrong answers. You will be graded on your understanding of and ability to explain these different ethical frameworks, and your ability to apply them to this specific situation.
-
-As a rule of thumb, your answer will likely be around 800 words — 100 to explain and 100 to analyze for each ethical theory, and another 200 to synthesize and provide your own opinion. You do not need to include citations to the article above or to the class readings. However, if you consult any additional sources (which you are welcome to but do not have to do), be sure to include a list of references after your response.
-
-</br>
-TODO:: RESPONSE HERE
 </br></br>
 The article, "How ChatGPT Hijacks Democracy". written by Nathan E. Sanders and Bruce Schneier brings forth issues of the power Artificial Intelligence may bring to politics. Notably, these issues include the ability for AI to represent a wide variety of political issues that have do not impact the AI model and the replacement of humans in democratic processes. THe article highlights a notable issue regarding the use of AI in the political sphere, stating "...an AI system with the sophistication of ChatGPT but trained on relevant data could selectively target key legislators and influencers to identify the weakest points in the policymaking system and ruthlessly exploit them through direct communication, public relations campaigns, horse trading or other points of leverage."
 </br></br>
@@ -20,8 +13,14 @@ One of the major reasons I am in opposition to using generative AI for governmen
 </br></br>
 Another important motivation for my criticism of AI being used for political motives can be found in the destruction of human intervention in democratic processes. Ariticial Intelligence systems have no stake in the outcome of a given lobbying campaign. This is a notable issue because lobbying itself is human. A machine cannot understand why a human thinks the way they do and why they might oppose some law or organization. This is highlighted in the article, which states "A system that can understand political networks, if paired with the textual-generation capabilities of ChatGPT, could identify the member of Congress with the most leverage over a particular policy area -- say, corporate taxation or military spending." Artificial Intelligence systems would feel no impact from the outcomes of the lobbying campaigns they would be presenting.
 </br></br>
-It is also important to tie in ethical frameworks, specifically Utilitarianism, Deontology, and Virtue Ethics, when discussing the use of AI in politics. Utilitarinism would likely argue that this technology is unethical. 
+It is also important to tie in ethical frameworks, specifically Utilitarianism, Deontology, and Virtue Ethics, when discussing the use of AI in politics.  Utilitarianism, which is defined as "What is morally right is what generates the best outcome for the largest number of people", according to Penn State University, would likely argue that this technology is not ethical or unethical. A major reason for this reasoning relates to the fact that the outcome of the AI lobbying would result in the ethical viewpoint of this framework. For instance, if the AI lobbying model managed to get a bill passed that would benefit millions of people, Utilitariansim would likely argue that this technology is ethical. However, if the model was to lobby for a bill that benefits few people, Utilitarianism would likely argue that the technology is unethical because the model did not do what generated the best outcome for the largest number of people.
+(NEED COUNTER)
 
-Deontology would likely take a similar view to Utilitarianism asserting that this technology is unethical.
+Deontology would likely argue that this technology is unethical. Deontology is defined as "What is moral is what follows from absolute moral duties", according to Penn State University.
+(NEED COUNTER)
 
-Virtue Ethics 
+Virtue Ethics is a more complicated framework, as the ethics associated with this foundation depends on the creators goals. Thus, the creator of the technology holds the weight of if the model is ethical or not. For instance, if the creator was creating this AI lobbying model to purport bills and laws to representatives, Virtue Ethics would view this as unethical. However, if the creator made the model in hopes of promoting piece and proposing bills that would lead to the good of all, Virtue Ethics would likely view this as ethical.
+(NEED COUNTER)
+
+</br>
+Thus, to further support my claims and to defend my disdain against using AI in the political sphere, it should be noted that the three fundamental ethical frameworks we explored hold similar viewpoints about the ethics behind such technology. 
