@@ -22,8 +22,8 @@ This repository contains minimal code, and as such, few usage instructions apply
 v 0.1.0 - Initial Implementation and Creation of Repo
 </br>
 
-# Why use a MIT License?
-The reason this repository is licensed using an MIT License is to allow the utmost creative freedom for any hoping to use this repository as reference, inspiration, or manipulation. According to the MIT Technology licensing Office, "The MIT License is known for its brevity and clarity. It grants permission to use, modify, and distribute the software, with the condition that the original copyright notice and the license text are retained in the redistributed software." Since MIT Licenses have few restrictions on usage conditions, this is one of the best licenses to represent a repository that will provide knowledge for others. Additionally, I value open-source software and I want to provide my work to others so that they can learn.
+<!-- # Why use a MIT License?
+The reason this repository is licensed using an MIT License is to allow the utmost creative freedom for any hoping to use this repository as reference, inspiration, or manipulation. According to the MIT Technology licensing Office, "The MIT License is known for its brevity and clarity. It grants permission to use, modify, and distribute the software, with the condition that the original copyright notice and the license text are retained in the redistributed software." Since MIT Licenses have few restrictions on usage conditions, this is one of the best licenses to represent a repository that will provide knowledge for others. Additionally, I value open-source software and I want to provide my work to others so that they can learn. -->
 </br>
 
 # References
